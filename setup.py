@@ -8,13 +8,9 @@ setuptools.setup(
     version='0.0.1',
     author='Bhavya Kumawat',
     author_email='bhavyakumawat99@gmail.com',
-    description='Testing installation of Package',
-    long_description=long_description,
+    description='Utility Methods',
     long_description_content_type="text/markdown",
-    url='https://github.com/Muls/toolbox',
-    project_urls={
-        "Bug Tracker": "https://github.com/Muls/toolbox/issues"
-    },
+    url='https://github.com/astrapiaconsulting/helpers',
     license='MIT',
     packages=['helpers'],
     install_requires=['requests'],
